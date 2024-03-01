@@ -1,0 +1,23 @@
+.h-title{
+    padding-top: 2%;
+    font-family: "Anta", sans-serif;
+    font-weight: 900;
+}
+
+.btech-title{
+    padding-left: 25%;
+    font-family: "Anta", sans-serif;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+.b-curi-list{
+    padding-left: 20%;
+}
+
+.list-group-item{
+    background-color: lightblue;
+}
